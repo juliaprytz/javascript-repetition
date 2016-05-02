@@ -60,7 +60,7 @@ console.log("Första andra i array: " + students[1].name);
 var favoriteGames = [["super Mario Bros 1", "Något här"], ["Röv", "WOW"]];
 console.log("Andra spelet i första listan " + favoriteGames[0][1])
 
-var superMario64 = {title: "Super mario 64", countries: ["Sverige", "USA"] characters: ["Mario", "Toad", "Peach"]};
+var superMario64 = {title: "Super Mario 64", countries: ["Sverige", "USA"], characters: ["Mario", "Toad", "Peach"]};
 //Hämta karaktären
 console.log("Första karaktären är " + superMario64.characters[0]);
 console.log("Andra landet är " + superMario64["countries"][1]);
