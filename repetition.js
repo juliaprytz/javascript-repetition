@@ -8,5 +8,4 @@ var weekdays = ["Måndag", "Tisdag", "Onsdag", "Torsdag", "Fredag", "Lördag", "
 //Hämta ur Array..
 console.log("Exempel 1. Första veckodagen " + weekday[0]);
 
-var favoriteDay = weekdays[5];
 
