@@ -23,5 +23,6 @@ month[10] = "Nov";
 month[11] = "Dec";
 
 console.log("Månad" + month[1]);
+console.log("Jag är född i" + month[1]);
 
 
