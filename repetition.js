@@ -22,4 +22,6 @@ month[9] = "Okt";
 month[10] = "Nov";
 month[11] = "Dec";
 
+console.log("Månad" + month[1]);
+
 
